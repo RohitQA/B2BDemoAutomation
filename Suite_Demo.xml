@@ -1,0 +1,77 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite Demo">
+
+
+<test name="TestCase 01">
+    <classes>
+        <class name="com.Demo.TestSuite.TestCase_01" ></class>  
+    </classes>
+</test>
+<test name="TestCase 02">
+    <classes>
+        <class name="com.Demo.TestSuite.TestCase_02" ></class>  
+    </classes>
+</test>
+<test name="TestCase 03">
+    <classes>
+        <class name="com.Demo.TestSuite.TestCase_03" ></class>  
+    </classes>
+</test>
+<test name="TestCase 04">
+    <classes>
+        <class name="com.Demo.TestSuite.TestCase_04" ></class>  
+    </classes>
+</test>
+<test name="TestCase 05">
+    <classes>
+        <class name="com.Demo.TestSuite.TestCase_05" ></class>  
+    </classes>
+</test>
+<test name="TestCase 06">
+    <classes>
+        <class name="com.Demo.TestSuite.TestCase_06" ></class>  
+    </classes>
+</test>
+<test name="TestCase 07">
+    <classes>
+        <class name="com.Demo.TestSuite.TestCase_07" ></class>  
+    </classes>
+</test>
+<test name="TestCase 08">
+    <classes>
+        <class name="com.Demo.TestSuite.TestCase_08" ></class>  
+    </classes>
+</test>
+<test name="TestCase 09">
+    <classes>
+        <class name="com.Demo.TestSuite.TestCase_09" ></class>  
+    </classes>
+</test>
+<test name="TestCase 10">
+    <classes>
+        <class name="com.Demo.TestSuite.TestCase_10" ></class>  
+    </classes>
+</test>
+<test name="TestCase 11">
+    <classes>
+        <class name="com.Demo.TestSuite.TestCase_11" ></class>  
+    </classes>
+</test>
+<test name="TestCase 12">
+    <classes>
+        <class name="com.Demo.TestSuite.TestCase_12" ></class>  
+    </classes>
+</test>
+<test name="TestCase 13">
+    <classes>
+        <class name="com.Demo.TestSuite.TestCase_13" ></class>  
+    </classes>
+</test>
+<test name="TestCase 14">
+    <classes>
+        <class name="com.Demo.TestSuite.TestCase_14" ></class>  
+    </classes>
+</test>
+
+</suite>
+

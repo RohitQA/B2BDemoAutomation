@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite Demo]">
+  <listeners>
+    <listener class-name="com.Demo.Listener.TestsListenerAdapter"/>
+  </listeners>
+  <test name="TestCase 03(failed)">
+    <classes>
+      <class name="com.Demo.TestSuite.TestCase_12">
+        <methods>
+          <include name="checkTestSkip"/>
+          <include name="reportDataSetResult"/>
+          <include name="reportTestResult"/>
+        </methods>
+      </class> <!-- com.Demo.TestSuite.TestCase_12 -->
+      <class name="com.Demo.TestSuite.TestCase_06">
+        <methods>
+          <include name="checkTestSkip"/>
+          <include name="reportTestResult"/>
+          <include name="reportDataSetResult"/>
+        </methods>
+      </class> <!-- com.Demo.TestSuite.TestCase_06 -->
+      <class name="com.Demo.TestSuite.TestCase_03">
+        <methods>
+          <include name="checkTestSkip"/>
+          <include name="TestCase03"/>
+          <include name="reportTestResult"/>
+          <include name="reportDataSetResult"/>
+        </methods>
+      </class> <!-- com.Demo.TestSuite.TestCase_03 -->
+      <class name="com.Demo.TestSuite.TestCase_01">
+        <methods>
+          <include name="checkTestSkip"/>
+          <include name="reportDataSetResult"/>
+          <include name="reportTestResult"/>
+        </methods>
+      </class> <!-- com.Demo.TestSuite.TestCase_01 -->
+      <class name="com.Demo.TestSuite.TestCase_14">
+        <methods>
+          <include name="checkTestSkip"/>
+          <include name="reportTestResult"/>
+          <include name="reportDataSetResult"/>
+          <include name="checkSuiteSkip"/>
+        </methods>
+      </class> <!-- com.Demo.TestSuite.TestCase_14 -->
+      <class name="com.Demo.TestSuite.TestCase_07">
+        <methods>
+          <include name="reportDataSetResult"/>
+          <include name="checkTestSkip"/>
+          <include name="reportTestResult"/>
+        </methods>
+      </class> <!-- com.Demo.TestSuite.TestCase_07 -->
+      <class name="com.Demo.TestSuite.TestCase_11">
+        <methods>
+          <include name="reportDataSetResult"/>
+          <include name="reportTestResult"/>
+          <include name="checkTestSkip"/>
+        </methods>
+      </class> <!-- com.Demo.TestSuite.TestCase_11 -->
+      <class name="com.Demo.TestSuite.TestCase_13">
+        <methods>
+          <include name="checkTestSkip"/>
+          <include name="reportTestResult"/>
+          <include name="reportDataSetResult"/>
+        </methods>
+      </class> <!-- com.Demo.TestSuite.TestCase_13 -->
+      <class name="com.Demo.TestSuite.TestCase_10">
+        <methods>
+          <include name="checkTestSkip"/>
+          <include name="reportTestResult"/>
+          <include name="reportDataSetResult"/>
+        </methods>
+      </class> <!-- com.Demo.TestSuite.TestCase_10 -->
+      <class name="com.Demo.TestSuite.TestCase_05">
+        <methods>
+          <include name="reportTestResult"/>
+          <include name="checkTestSkip"/>
+          <include name="reportDataSetResult"/>
+        </methods>
+      </class> <!-- com.Demo.TestSuite.TestCase_05 -->
+      <class name="com.Demo.TestSuite.TestCase_09">
+        <methods>
+          <include name="checkTestSkip"/>
+        </methods>
+      </class> <!-- com.Demo.TestSuite.TestCase_09 -->
+      <class name="com.Demo.TestSuite.TestCase_08">
+        <methods>
+          <include name="checkTestSkip"/>
+          <include name="reportDataSetResult"/>
+          <include name="reportTestResult"/>
+        </methods>
+      </class> <!-- com.Demo.TestSuite.TestCase_08 -->
+      <class name="com.Demo.TestSuite.TestCase_02">
+        <methods>
+          <include name="checkTestSkip"/>
+          <include name="reportTestResult"/>
+          <include name="reportDataSetResult"/>
+        </methods>
+      </class> <!-- com.Demo.TestSuite.TestCase_02 -->
+      <class name="com.Demo.TestSuite.TestCase_04">
+        <methods>
+          <include name="checkTestSkip"/>
+          <include name="reportDataSetResult"/>
+          <include name="reportTestResult"/>
+        </methods>
+      </class> <!-- com.Demo.TestSuite.TestCase_04 -->
+    </classes>
+  </test> <!-- TestCase 03(failed) -->
+  <test name="TestCase 09(failed)">
+    <classes>
+      <class name="com.Demo.TestSuite.TestCase_12">
+        <methods>
+          <include name="checkTestSkip"/>
+          <include name="reportDataSetResult"/>
+          <include name="reportTestResult"/>
+        </methods>
+      </class> <!-- com.Demo.TestSuite.TestCase_12 -->
+      <class name="com.Demo.TestSuite.TestCase_06">
+        <methods>
+          <include name="checkTestSkip"/>
+          <include name="reportTestResult"/>
+          <include name="reportDataSetResult"/>
+        </methods>
+      </class> <!-- com.Demo.TestSuite.TestCase_06 -->
+      <class name="com.Demo.TestSuite.TestCase_01">
+        <methods>
+          <include name="checkTestSkip"/>
+          <include name="reportDataSetResult"/>
+          <include name="reportTestResult"/>
+        </methods>
+      </class> <!-- com.Demo.TestSuite.TestCase_01 -->
+      <class name="com.Demo.TestSuite.TestCase_03">
+        <methods>
+          <include name="checkTestSkip"/>
+          <include name="reportTestResult"/>
+          <include name="reportDataSetResult"/>
+        </methods>
+      </class> <!-- com.Demo.TestSuite.TestCase_03 -->
+      <class name="com.Demo.TestSuite.TestCase_14">
+        <methods>
+          <include name="checkTestSkip"/>
+          <include name="reportTestResult"/>
+          <include name="reportDataSetResult"/>
+          <include name="checkSuiteSkip"/>
+        </methods>
+      </class> <!-- com.Demo.TestSuite.TestCase_14 -->
+      <class name="com.Demo.TestSuite.TestCase_07">
+        <methods>
+          <include name="reportDataSetResult"/>
+          <include name="checkTestSkip"/>
+          <include name="reportTestResult"/>
+        </methods>
+      </class> <!-- com.Demo.TestSuite.TestCase_07 -->
+      <class name="com.Demo.TestSuite.TestCase_11">
+        <methods>
+          <include name="reportDataSetResult"/>
+          <include name="reportTestResult"/>
+          <include name="checkTestSkip"/>
+        </methods>
+      </class> <!-- com.Demo.TestSuite.TestCase_11 -->
+      <class name="com.Demo.TestSuite.TestCase_13">
+        <methods>
+          <include name="checkTestSkip"/>
+          <include name="reportTestResult"/>
+          <include name="reportDataSetResult"/>
+        </methods>
+      </class> <!-- com.Demo.TestSuite.TestCase_13 -->
+      <class name="com.Demo.TestSuite.TestCase_10">
+        <methods>
+          <include name="checkTestSkip"/>
+          <include name="reportTestResult"/>
+          <include name="reportDataSetResult"/>
+        </methods>
+      </class> <!-- com.Demo.TestSuite.TestCase_10 -->
+      <class name="com.Demo.TestSuite.TestCase_05">
+        <methods>
+          <include name="reportTestResult"/>
+          <include name="checkTestSkip"/>
+          <include name="reportDataSetResult"/>
+        </methods>
+      </class> <!-- com.Demo.TestSuite.TestCase_05 -->
+      <class name="com.Demo.TestSuite.TestCase_09">
+        <methods>
+          <include name="checkTestSkip"/>
+          <include name="TestCase09"/>
+        </methods>
+      </class> <!-- com.Demo.TestSuite.TestCase_09 -->
+      <class name="com.Demo.TestSuite.TestCase_08">
+        <methods>
+          <include name="checkTestSkip"/>
+          <include name="reportDataSetResult"/>
+          <include name="reportTestResult"/>
+        </methods>
+      </class> <!-- com.Demo.TestSuite.TestCase_08 -->
+      <class name="com.Demo.TestSuite.TestCase_02">
+        <methods>
+          <include name="checkTestSkip"/>
+          <include name="reportTestResult"/>
+          <include name="reportDataSetResult"/>
+        </methods>
+      </class> <!-- com.Demo.TestSuite.TestCase_02 -->
+      <class name="com.Demo.TestSuite.TestCase_04">
+        <methods>
+          <include name="checkTestSkip"/>
+          <include name="reportDataSetResult"/>
+          <include name="reportTestResult"/>
+        </methods>
+      </class> <!-- com.Demo.TestSuite.TestCase_04 -->
+    </classes>
+  </test> <!-- TestCase 09(failed) -->
+</suite> <!-- Failed suite [Suite Demo] -->
