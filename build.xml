@@ -61,8 +61,7 @@
 	        <javac 
 	            debug="true" 
 	            destdir="${test.dest}" 
-	            srcdir="${test.src}" 
-	            target="1.8" 
+	            srcdir="${test.src}"
 	            classpath="${test.classpath}">
 	        </javac>
 	    	 <copy todir="${test.dest}">
