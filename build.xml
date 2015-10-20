@@ -61,9 +61,9 @@
 	        <javac 
 	            debug="true" 
 	            destdir="${test.dest}" 
-	            srcdir="${test.src}" 
-	            target="1.5" 
-	            classpath="${test.classpath}">
+	            source="${test.src}" 
+	            target="1.5"> 
+	            <classpath refid="classpath_jars"/>
 	        </javac>
 	    	 <copy todir="${test.dest}">
 	    	            <fileset dir="${test.src}" excludes="**/*.java"/>
