@@ -63,9 +63,7 @@
 	            destdir="${test.dest}" 
 	            srcdir="${test.src}" 
 	            target="1.8" 
-	            classpath="${test.classpath}"
-	        >
-	        </javac>
+	            classpath="${test.classpath}"/>
 	    	 <copy todir="${test.dest}">
 	    	            <fileset dir="${test.src}" excludes="**/*.java"/>
 	    	  </copy>
