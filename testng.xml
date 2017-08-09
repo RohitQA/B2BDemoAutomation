@@ -1,9 +1,0 @@
-<suite name="My suite">
-<listeners>
-    <listener class-name="com.Demo.Listener.TestsListenerAdapter" />
-</listeners>
-  <suite-files>
-   <suite-file path="./Suite_Demo.xml" />
-      
-  </suite-files>
-</suite>
